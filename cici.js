@@ -3,7 +3,7 @@ const prevButton = document.getElementById('prev');
 const nextButton = document.getElementById('next');
 
 const images = [
-    { src: "raissa.jpg", name: "João" },
+    { src: " jean (1).jpg ", name: "João" },
     { src: "https://via.placeholder.com/300x200?text=Foto+2", name: "Maria" },
     { src: "https://via.placeholder.com/300x200?text=Foto+3", name: "Pedro" },
     { src: "https://via.placeholder.com/300x200?text=Foto+4", name: "Ana" },
@@ -46,7 +46,7 @@ prevButton.addEventListener('click', prevImage);
 
 
 
-
+tag img 
 
 
 
